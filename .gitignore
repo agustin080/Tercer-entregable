@@ -1,0 +1,5 @@
+# CREDENCIALES
+.env
+
+# ARCHIVO WEATHER
+weather_data.csv
